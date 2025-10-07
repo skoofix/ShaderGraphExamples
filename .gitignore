@@ -24,7 +24,10 @@ src/ShaderGraph/[Rr]ecordings/
 src/ShaderGraph/[Aa]ssets/Plugins/Editor/JetBrains*
 
 # Visual Studio cache directory
-src/ShaderGraph/.vs/
+/src/ShaderGraph/.vs/
+/src/ShaderGraph/.idea
+.idea/
+/src/ShaderGraph/.idea/
 
 # Gradle cache directory
 src/ShaderGraph/.gradle/
