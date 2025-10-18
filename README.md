@@ -8,3 +8,15 @@
 
 ## Item Highlighter
 ![](https://github.com/skoofix/ShaderGraphExamples/blob/main/videos/ItemHighlighter.gif)
+
+## Outline
+![](https://github.com/skoofix/ShaderGraphExamples/blob/main/videos/Outline.gif)
+
+## Pixelation
+![](https://github.com/skoofix/ShaderGraphExamples/blob/main/videos/Pixelation.gif)
+
+## Pixel Melt
+![](https://github.com/skoofix/ShaderGraphExamples/blob/main/videos/PixelMelt.gif)
+
+## TV Noise Lines
+![](https://github.com/skoofix/ShaderGraphExamples/blob/main/videos/TVDistortLines.gif)
